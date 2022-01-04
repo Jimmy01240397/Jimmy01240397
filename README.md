@@ -16,4 +16,4 @@
   - [ ] Add python version
   - [ ] Add javascript version
   - [ ] Add C/C++ version
-- [ ] VpnGenerator
+- [ ] VpnGenerator (Shell Script for wireguard and openvpn)
