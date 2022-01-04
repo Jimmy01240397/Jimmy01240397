@@ -6,7 +6,7 @@
 - [ ] Chuon
   - [x] Add multidimensional array serialization
   - [ ] Add custom class serialization
-  - [ ] Update new java version
+  - [ ] Update new Chuon version for java 
   - [ ] Add python version
   - [ ] Add javascript version
   - [ ] Add C/C++ version
