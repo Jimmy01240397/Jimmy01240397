@@ -16,4 +16,6 @@
   - [ ] Add python version
   - [ ] Add javascript version
   - [ ] Add C/C++ version
+- [ ] LANRSAAuthenticationService
+  - [ ] Add remove.sh
 - [ ] VpnGenerator (Shell Script for wireguard and openvpn)
