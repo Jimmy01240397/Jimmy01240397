@@ -16,7 +16,14 @@
   - [ ] Add python version
   - [ ] Add javascript version
   - [ ] Add C/C++ version
-- [ ] LANRSAAuthenticationService
-  - [ ] Add remove.sh
+- [x] LANRSAAuthenticationService
+  - [x] Add remove.sh
+  - [x] sign format from hex change to base64
+  - [x] add ipv6 support
+  - [x] add multiple interfaces support
+  - [x] add layer3 only auth support
+  - [x] add iptablesstoplist.conf
+  - [x] add logout
+  - [x] add doonloginandlogout
 - [ ] VpnGenerator (Shell Script for wireguard and openvpn)
 - [ ] Debian NAS Generator
