@@ -3,20 +3,20 @@
 ![Jimmy012403976's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimmy01240397&show_icons=true&theme=darcula&layout=compact)
 
 # Todo
-- [ ] [Chuon](/Chuon)
+- [ ] [Chuon](https://github.com/Jimmy01240397/Chuon)
   - [x] Add multidimensional array serialization
   - [ ] Add custom class serialization
   - [ ] Update new Chuon version for java 
   - [ ] Add python version
   - [ ] Add javascript version
   - [ ] Add C/C++ version
-- [ ] NetworkServicePackage
+- [ ] [NetworkServicePackage](https://github.com/Jimmy01240397/NetworkServicePackage)
   - [ ] Update Chuon to the latest version
   - [ ] Add Java version
   - [ ] Add python version
   - [ ] Add javascript version
   - [ ] Add C/C++ version
-- [x] LANRSAAuthenticationService
+- [x] [LANRSAAuthenticationService](https://github.com/Jimmy01240397/LANRSAAuthenticationService)
   - [x] Add remove.sh
   - [x] sign format from hex change to base64
   - [x] add ipv6 support
@@ -25,5 +25,5 @@
   - [x] add iptablesstoplist.conf
   - [x] add logout
   - [x] add doonloginandlogout
-- [ ] VpnGenerator (Shell Script for wireguard and openvpn)
+- [ ] [VpnGenerator](https://github.com/Jimmy01240397/VpnGenerator) (Shell Script for wireguard and openvpn)
 - [ ] Debian NAS Generator
