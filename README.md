@@ -28,4 +28,3 @@
   - [x] add logout
   - [x] add doonloginandlogout
 - [ ] [VpnGenerator](https://github.com/Jimmy01240397/VpnGenerator) (Shell Script for wireguard and openvpn)
-- [ ] Debian NAS Generator
