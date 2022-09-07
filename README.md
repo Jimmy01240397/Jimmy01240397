@@ -8,7 +8,7 @@
 - [ ] [Chuon](https://github.com/Jimmy01240397/Chuon)
   - [x] Add multidimensional array serialization
   - [ ] Add custom class serialization
-  - [] Update new Chuon version for java 
+  - [x] Update new Chuon version for java 
   - [ ] Add python version
   - [ ] Add javascript version
   - [ ] Add C/C++ version
